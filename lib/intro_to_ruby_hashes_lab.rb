@@ -20,6 +20,7 @@ def update_counting_hash(hash, key)
   else 
     hash[key] = 1
   end
+  hash 
 end 
 
 this_hash = {"fun" => 5, :count => 5 }
