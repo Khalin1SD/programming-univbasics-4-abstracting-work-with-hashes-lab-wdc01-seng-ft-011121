@@ -22,7 +22,8 @@ end
 
 this_hash = {"fun" => 5, :count => 5 }
 
-update_counting_hash( this_hash, :count)
+update_counting_hash(this_hash, 'hello')
+update_counting_hash(this_hash, :count)
 
 
 
