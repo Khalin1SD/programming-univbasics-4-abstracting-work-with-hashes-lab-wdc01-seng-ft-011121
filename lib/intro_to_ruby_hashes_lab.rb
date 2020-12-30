@@ -20,7 +20,9 @@ def update_counting_hash(hash, key)
   end
 end 
 
-this_hash = {"fun" => 5
+this_hash = {"fun" => 5, :count => 5 }
+
+update_counting_hash( this_hash, )
 
 
 
