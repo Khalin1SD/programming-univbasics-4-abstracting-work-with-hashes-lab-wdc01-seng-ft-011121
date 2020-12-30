@@ -20,3 +20,8 @@ def update_counting_hash(hash, key)
   end
 end 
 
+this_hash = {"fun" => 5
+
+
+
+
